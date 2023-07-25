@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development, Artificial Intelligence and Software Engineering in aiding Education
 - 🌱 I’m currently skilled in HTML,CSS,PHP,JavaScript,RASA
 - 🌱 Learning Python and formal methods
-- 💞️ I’m looking to collaborate on Web development 
+- 💞️ I’m looking to collaborate on Web development and Artificial Intelligence methods
 - 📫 ...Reach me via email @ ebiijeoma@gmail.com 
 
 <!---
