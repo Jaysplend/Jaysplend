@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Jaysplend
-- 👀 I’m interested in Frontend Development 
-- 🌱 I’m currently learning HTML + PHP
+- 👀 I’m interested in Web Development, Artificial Intelligence and Software Engineering in aiding Education
+- 🌱 I’m currently skilled in HTML,CSS,PHP,JavaScript,RASA
+- 🌱 Learning Python and formal methods
 - 💞️ I’m looking to collaborate on Web development 
 - 📫 ...Reach me via email @ ebiijeoma@gmail.com 
 
